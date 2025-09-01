@@ -64,14 +64,6 @@
 
 ---
 
-### 🔧 [DevOps CI/CD Pipeline Example](https://github.com/Suhas-SR/Suhas-S-R)
-> Demonstrates CI/CD pipeline setup for a Spring Boot project using Jenkins and GitHub Actions.
-
-*Tech Stack:* Docker, Kubernetes, Jenkins, GitHub Actions  
-*Features:* Automated build, test, and deployment pipeline, Containerized Application
-
----
-
 ## 🧾 Certifications
 
 ✅ Java, DBMS, OOPS, NoSQL – Jspider
