@@ -52,14 +52,6 @@
 
 ---
 
-### 📝 [ToDo List App](https://github.com/Suhas-SR/Suhas-S-R)
-> A simple and elegant To-Do List Web App to manage daily tasks.
-
-*Tech Stack:* HTML, CSS, JavaScript  
-*Features:* Add/Delete Tasks, LocalStorage, Responsive Design
-
----
-
 ### 🤖 [Personal AI Stylist](https://github.com/Suhas-SR/Suhas-S-R)
 > An AI-powered application that analyzes and classifies images to provide personalized styling recommendations.
 
@@ -69,8 +61,6 @@
 - Uses **RNN** for sequential analysis and classification  
 - Recommends styles and outfits based on analyzed images  
 - Optimized for real-time performance and scalability  
-
-
 
 ---
 
