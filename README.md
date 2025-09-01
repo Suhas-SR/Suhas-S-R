@@ -78,9 +78,9 @@
 
 ## 🧾 Certifications
 
-✅ Java, DBMS, OOPS, NoSQL – Infosys Springboard  
-✅ Agile, Scrum, DSA using Java – Infosys Springboard  
-✅ Communication, Presentation, GD Skills – TCS iON Career Edge  
+✅ Java, DBMS, OOPS, NoSQL – Jspider
+✅ Agile, Scrum, DSA using Java – Jspider  
+ 
 
 ---
 
