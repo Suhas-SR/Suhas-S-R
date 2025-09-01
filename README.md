@@ -69,7 +69,6 @@
 ✅ Java, DBMS, OOPS, NoSQL – Jspider
 ✅ Agile, Scrum, DSA using Java – Jspider  
  
-
 ---
 
 ## 📊 GitHub Stats
